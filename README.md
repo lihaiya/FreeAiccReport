@@ -1,5 +1,5 @@
 # FreeAiccReport：呼叫中心智能报表
-FreeAiccReport，报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!!!
+FreeAiccReport，报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!!!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
