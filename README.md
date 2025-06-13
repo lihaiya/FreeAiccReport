@@ -1,5 +1,5 @@
 # FreeAiccReport：呼叫中心智能报表
-FreeAiccReport, Reports, agent reports, shift reports, BI, smart reports, 报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!!!
+FreeAiccReport, Reports, agent reports, shift reports, BI, smart reports, 报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
@@ -19,7 +19,7 @@ FreeAiccReport, Reports, agent reports, shift reports, BI, smart reports, 报表
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## demo暂无，附团队AI Call Center的Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的Demo链接2025.06.13，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
