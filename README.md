@@ -1,5 +1,5 @@
 # FreeAiccReport：呼叫中心智能报表
-FreeAiccReport, Reports, agent reports, shift reports, BI, smart reports, 报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!!!!!!!
+FreeAiccReport, Reports, agent reports, shift reports, BI, smart reports, 报表，坐席报表，班长报表，BI，智能报表，Call Center, Contact Center,AI,人工智能，联络中心,large model robot!!!!!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
